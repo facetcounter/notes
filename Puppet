@@ -3,3 +3,16 @@
 - package manager for windows: chocolate
 - ide: atom? Adam?
 
+Server spec and vagrant for testing/propagating configs
+
+Server spec writes respect tests against server properties
+
+Talk 2: PCCI 
+- Travis votes on a pull request, leaving a little green dot
+- leaking vm's
+- cloud based continuous testing of modules
+- synthetic failure: failure of testing of infrastructure
+- ask github to allow anonymous vi voting
+- to allow for a bunch of people writing tests against your stuff. A web of acceptance/advisory information
+
+- 
